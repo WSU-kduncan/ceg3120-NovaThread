@@ -27,12 +27,12 @@
 ![sample instance details](Images/Tag.jpg)
 
 6. Associated the previously created security group to the instance.
-![sample instance details](/Images/SecurityGroup.png)
+![sample instance details](Images/SecurityGroup.png)
 
 7. Elastic IP reserved, I had to click on the instance and associate a new Elastic IP with it. I added the tag Short-EIP.
-![Elastic IP](/Images/ElasticIP.jpg)
+![Elastic IP](Images/ElasticIP.jpg)
 
-8. ![Instance Screenshot](/Images/InstanceScreenshot.jpg)
+8. ![Instance Screenshot](Images/InstanceScreenshot.jpg)
 
 9. just type sudo hostname "name you want" I did "Short-AMI" since there isn't anything in there that I want to make a backup of I didn't. If it was something important I would have though.
 
