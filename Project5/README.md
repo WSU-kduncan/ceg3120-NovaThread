@@ -19,7 +19,9 @@ After the information is configured the system needed restarted. I ran "sudo sys
 The first step is to SSH from my haproxy instance to my other web server instances.
 the webserver .html files were located in /var/www/html
 
-After configuring and playing with them for a minute I saved my changes and exited.
+After configuring and playing with them for a minute I saved my changes.
+
+Here are the 2 different webservers
 
 ![server 1](1.jpg)
 
