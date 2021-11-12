@@ -3,7 +3,7 @@
 The .yml file includes a Main instance that installs HAProxy and two other instances.
 
 First I had to SSH into my proxy server
-I then inputed the information into a text file about my 2 web servers. ip addresses and such.
+I then inputed the information into a text file about my 2 web servers. ip addresses and such. "sudo nano /etc/hosts"
 
 ## Installing and Configuring HAProxy
 
